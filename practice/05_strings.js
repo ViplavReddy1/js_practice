@@ -7,4 +7,6 @@ console.log(`Hello my name is ${fname} and my age is ${age}`)
 // Best to use string interpolation
 //different type of declaration of string
 let name = new String("viplsv");
-console.log(name);
+//it will give us methods & functions to implement 
+//we can access individual characters using indexes
+console.log(fname);
