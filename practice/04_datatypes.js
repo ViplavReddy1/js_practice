@@ -50,3 +50,11 @@ const myFunc = function(){
 console.log(typeof null);
 
 // Javascript is dynamically typed.
+
+//stack() stores primitive data
+//heap() stores non-primitive data
+let myName = "viplav"
+let firstName = myName
+firstName = "Billa"
+console.log(firstName);
+console.log(myName);
